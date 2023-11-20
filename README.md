@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application serves as a graphical user interface (GUI) wrapper for the built-in `Copy-Item` function in PowerShell. The script simplifies the process of copying files and directories by providing a user-friendly interface.
+This program is a simple interface for the Copy-Item function in PowerShell, providing a convenient way to perform file copy operations without the need for command-line input.
 
 ## Features
 
@@ -24,6 +24,5 @@ This application serves as a graphical user interface (GUI) wrapper for the buil
 
 - PowerShell
 
-## Notes
-
-This program is a simple interface for the `Copy-Item` function in PowerShell, providing a convenient way to perform file copy operations without the need for command-line input.
+## License
+MIT
